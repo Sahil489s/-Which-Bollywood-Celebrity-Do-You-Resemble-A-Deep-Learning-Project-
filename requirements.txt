@@ -2,9 +2,10 @@ streamlit
 mtcnn==0.1.0
 keras-vggface==0.6
 tensorflow==2.20.0
-opencv-python>=4.12.0
+opencv-python==4.8.0.74
 Pillow
 scikit-learn
 numpy
 tqdm
+
 
