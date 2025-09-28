@@ -1,4 +1,4 @@
-\streamlit
+streamlit
 mtcnn==0.1.0
 keras-vggface==0.6
 tensorflow==2.20.0
@@ -7,3 +7,4 @@ Pillow
 scikit-learn
 numpy
 tqdm
+
